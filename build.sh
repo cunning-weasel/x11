@@ -1,1 +1,1 @@
-gcc -o output x11.c -g -lX11
+gcc -o out x11.c -g -lX11
